@@ -1,5 +1,0 @@
-python-binance
-python-telegram-bot
-numpy
-matplotlib
-requests
