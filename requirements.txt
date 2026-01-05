@@ -1,0 +1,7 @@
+python-binance
+python-telegram-bot
+numpy
+yfinance
+python-dotenv
+pandas
+yfinance
